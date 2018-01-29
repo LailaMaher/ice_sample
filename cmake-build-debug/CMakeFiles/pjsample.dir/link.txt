@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pjsample.dir/ice_main.cpp.o  -o pjsample 

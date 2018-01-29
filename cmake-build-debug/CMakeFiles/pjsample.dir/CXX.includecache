@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oranngeoai/Documents/project/pjsample/ice_main.cpp
+stdio.h
+-
+stdlib.h
+-
+pjlib.h
+-
+pjlib-util.h
+-
+pjnath.h
+-
+
